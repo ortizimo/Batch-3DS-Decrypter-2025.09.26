@@ -1,4 +1,4 @@
-UPGRADE TO BATCH CIA 3DS DECRYPTOR.BAT 
+UPGRADE TO BATCH CIA 3DS DECRYPTOR.BAT (2025.09.26)
 --------------------------------------
 MIT License
 
