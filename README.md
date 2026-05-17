@@ -19,3 +19,9 @@ copies or substantial portions of the Software.
 3. IT RENAMES .CCI TO .3DS THEN IT DOES ITS OWN THING AND AT THE END, DELETES THE ORIGINAL ENCRYPTED FILES.
 4. WARNING! MAKE SURE YOU HAVE A BACKUP BEFORE YOU START!
 5. IT REQUIRES CTRTOOL.EXE, DECRYPT.EXE AND MAKEROM.EXE TO WORK (NOT INCLUDED)
+
+INSTRUCTIONS:
+1. Find and download CTRTOOL.EXE, DECRYPT.EXE and MAKEROM.EXE and my batch file here and place them into a single folder.
+2. Drop the encrypted .n3ds ROM in the same folder.
+3. Run the batch file and wait until completed.
+4. If it doesn't work, then there's something wrong with the ROM. Try another one from somewhere else.
